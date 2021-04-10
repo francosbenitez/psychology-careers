@@ -1,0 +1,13 @@
+name: carreras_de_psicologia_argentinas
+title: carreras_de_psicologia_argentinas
+username:
+account: francosbenitez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3431603
+bundleId: 4190402
+url: https://francosbenitez.shinyapps.io/carreras_de_psicologia_argentinas/
+when: 1612661834.33822
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|data/1. Antiguedad.xlsx|www/custom.css
